@@ -1,0 +1,5 @@
+Representation of "kulupu "sona ma pi tenpo lon"" in sitelen ilo pona.
+Sources: kulupu: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_kulupu.svg; ma: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ma.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; tenpo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_tenpo.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing kulupu "sona ma pi tenpo lon"]]

@@ -1,0 +1,5 @@
+Representation of "olin pi unpa ala" in sitelen ilo pona.
+Sources: olin: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_olin.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; unpa: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_unpa.svg; ala: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ala.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing olin pi unpa ala]]
