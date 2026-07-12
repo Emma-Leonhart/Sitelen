@@ -1,0 +1,5 @@
+Representation of "mu pini pi sewi ko" in sitelen ilo pona.
+Sources: mu: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_mu.svg; pini: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pini.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; sewi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_sewi.svg; ko: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ko.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing mu pini pi sewi ko]]

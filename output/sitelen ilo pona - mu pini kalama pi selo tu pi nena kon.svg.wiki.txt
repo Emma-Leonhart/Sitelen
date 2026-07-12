@@ -1,0 +1,5 @@
+Representation of "mu pini kalama pi selo tu pi nena kon" in sitelen ilo pona.
+Sources: mu: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_mu.svg; pini: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pini.svg; kalama: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_kalama.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; selo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_selo.svg; tu: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_tu.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; nena-kon: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_nena-kon.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing mu pini kalama pi selo tu pi nena kon]]

@@ -1,0 +1,5 @@
+Representation of "mu pini pi monsi uta" in sitelen ilo pona.
+Sources: mu: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_mu.svg; pini: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pini.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; monsi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_monsi.svg; uta: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_uta.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing mu pini pi monsi uta]]

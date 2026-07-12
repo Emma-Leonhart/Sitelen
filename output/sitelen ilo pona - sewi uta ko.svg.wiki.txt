@@ -1,0 +1,5 @@
+Representation of "sewi uta ko" in sitelen ilo pona.
+Sources: sewi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_sewi.svg; uta: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_uta.svg; ko: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ko.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing sewi uta ko]]
