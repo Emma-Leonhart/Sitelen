@@ -1,0 +1,5 @@
+Representation of "suli pi sitelen wan toki" in sitelen ilo pona.
+Sources: suli: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_suli.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; sitelen: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_sitelen.svg; wan: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_wan.svg; toki: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_toki.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing suli pi sitelen wan toki]]
