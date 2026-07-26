@@ -1,0 +1,5 @@
+Representation of "jan ale li sama tan open" in sitelen ilo pona.
+Sources: jan-ale: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_jan-ale.svg; li: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_li.svg; sama: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_sama.svg; tan: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_tan.svg; open: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_open.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing jan ale li sama tan open]]
