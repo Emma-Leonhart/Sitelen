@@ -1,0 +1,5 @@
+Representation of "kulupu kalama musi jan lili pona" in sitelen ilo pona.
+Sources: kulupu: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_kulupu.svg; kalama-musi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_kalama-musi.svg; jan-lili: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_jan-lili.svg; pona: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pona.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing kulupu kalama musi jan lili pona]]
