@@ -1,0 +1,5 @@
+Representation of "pan pi pan tu" in sitelen ilo pona.
+Sources: pan: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pan.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; pan: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pan.svg; tu: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_tu.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing pan pi pan tu]]
